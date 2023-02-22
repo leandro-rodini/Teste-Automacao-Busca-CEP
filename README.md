@@ -21,3 +21,6 @@ Para executar o teste, em seu terminal digite o comando:
 
 Caso queira editar o código do teste, utilize o editor de código de sua preferência. 
 Recomendo utilização do Visual Studio.
+
+# Pasta "Teste teórico e screenshot do resultado"
+Este diretorio contem o arquivo "ConhecimentosQualidadeDeSoftware" com as respostas das questoes teoricas e o screenshot da execução do teste no Visual Studio com o nome "result_automation"
